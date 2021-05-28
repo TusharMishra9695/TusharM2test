@@ -1,0 +1,44 @@
+.Box{
+  position: absolute;
+  height: 60%;
+ background-color: #ffffff;
+ width:60%;
+ display: flex;
+ left: 300px;
+top: 80px;
+border-radius: 30px;
+padding: 40px;
+}
+body{
+  background-color:#faf8f8;
+}
+
+.Box2{
+  position: relative;
+  top:40px;
+
+}
+.contain{
+  position: absolute;
+  left: 60%;
+  top:22%;
+}
+.Box3{
+  position: relative;
+  top:30px;
+
+}
+
+.field1{
+  width: 50%;
+}
+.button{
+  position: relative;
+  width: 50%;
+  border: none;
+background-color: rgb(132, 21, 235);
+  color: #ffffff;
+   margin-top: 60px;
+  height: 40px;
+
+}
