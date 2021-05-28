@@ -1,0 +1,81 @@
+.image{
+    height: 100%;
+    width: 100% ;
+    position: absolute;
+}
+ .image3{
+    height: 100px;
+    width: 100px ;
+    position: relative;
+    left:25%;
+    top:30%;
+ }
+ .Fog45{
+    left: 34%;
+    position: relative;
+    width:300px;
+    top:10px;
+    height: 50px;
+
+}
+
+.log1{
+  
+    height: 75%;
+    width: 80%;
+    position: absolute;
+    left:106px;
+    top:100px;
+   box-shadow: 2px 2px 4px black;
+}
+.yield1{
+    width: 130%;
+    background-color: white;
+    border-radius: 4px;
+  }
+  .link2{
+    text-decoration:none;
+ color: blue;
+   }
+
+.lox3{
+    position: relative;
+    top:50px;
+float: right;
+color:white;
+right:100px;
+  }
+  .lox4{
+    position: relative;
+    top:120px;
+float: right;
+right:-122px;
+color:white;
+  }
+  .lox6{
+    position: relative;
+    top:250px;
+float: right;
+right:-605px;      
+  }
+  .lox5{
+    position: relative;
+    top:210px;
+float: right;
+right:-400px; 
+color:white;
+  }
+.dash{
+    font-size:25px;
+    left:260px;
+    top:300px;
+    position: absolute;
+    color:rgb(39, 39, 175);
+}
+.font{
+    font-size:12px;
+    left:270px;
+    top:305px;
+    position: absolute;
+
+}
